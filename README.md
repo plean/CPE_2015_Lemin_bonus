@@ -7,6 +7,11 @@ This bonus was made using [Liblapin](https://github.com/Damdoshi/LibLapin).
 
 `lemin output | ./bonus`
 
+### Known Bugs
+
+ * Risk of segfault when passing wrong input
+ * Sometime path not very explicit 
+
 ### Team
 
 The team is made of:
