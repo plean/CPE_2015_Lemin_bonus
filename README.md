@@ -3,6 +3,10 @@
 Bonus part of Lemin (labyrinth resolution algorithm) wich display the solving process.
 This bonus was made using [Liblapin](https://github.com/Damdoshi/LibLapin).
 
+### Usage
+
+`lemin output | ./bonus`
+
 ### Team
 
 The team is made of:
